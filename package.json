@@ -1,0 +1,12 @@
+{
+  "name": "bootstrap3-snippets",
+  "version": "0.0.0",
+  "description": "Bootstrap 3 snppets plugin for Atom",
+  "repository": "https://github.com/atom/bootstrap3-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
