@@ -1,0 +1,12 @@
+'.text.html':
+
+  'Alert Block':
+    'prefix':'bs3-alert'
+    'body': """
+      <div class="alert">
+       <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+       <strong>$1</strong>$2
+      </div>
+    """
+
+  'Alert Block Danger'
