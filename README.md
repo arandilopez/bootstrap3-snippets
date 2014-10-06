@@ -15,5 +15,9 @@ You can install the latest bootstrap3-snippets version manually from console:
     cd boostrap3-snippets
     npm install
     # Then restart Atom editor.
+## Usage
 
 Please report any problems or suggestions at [issue tracker](https://github.com/arandilopez/bootstrap3-snippets/issues/new).
+
+## Thanks
+Thanks to [JasonMortonNZ](https://github.com/JasonMortonNZ) for his awsome ST BS3 snippets.
