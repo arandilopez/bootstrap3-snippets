@@ -55,4 +55,15 @@
 
       # HTML5 Template
       'bs3-template:html5'
+
+      # Carousel
+      'bs3-carousel'
+
+      # CDN
+      'bs3-cdn'
+      'bs3-cdn:css'
+      'bs3-cdn:js'
+
+      # Clearfix
+      'bs3-clearfix'
     ]

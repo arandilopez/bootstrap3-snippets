@@ -1,0 +1,24 @@
+'.text.html':
+  'BS3 Cdn Css':
+    'prefix': 'bs3-cdn:css'
+    'body': """
+      <!-- Latest compiled and minified CSS -->
+      <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    """
+
+  'BS3 Cdn Js':
+    'prefix': 'bs3-cdn:js'
+    'body': """
+      <!-- Latest compiled and minified JS -->
+      ${1:<script src="//code.jquery.com/jquery.js"></script>}
+      <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    """
+
+  'BS3 Cdb':
+    'prefix': 'bs3-cdn'
+    'body': """
+      <!-- Latest compiled and minified CSS & JS -->
+      <link rel="stylesheet" media="screen" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+      ${1:<script src="//code.jquery.com/jquery.js"></script>}
+      <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    """
