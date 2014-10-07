@@ -4,7 +4,7 @@ This is a BS3 snippets package for Atom. These snippets are in bs3-* style such 
 
 ## Installation
 
-In Atom, open Preferences > Packages, search for bootstrap3-snippets package. Once it found, click Install button to install package.
+In Atom, open `Preferences > Packages`, search for `bootstrap3-snippets package`. Once it found, click Install button to install package.
 
 ## Manual installation
 
@@ -16,8 +16,10 @@ You can install the latest bootstrap3-snippets version manually from console:
     npm install
     # Then restart Atom editor.
 ## Usage
-
-Please report any problems or suggestions at [issue tracker](https://github.com/arandilopez/bootstrap3-snippets/issues/new).
+An pretty gif of how this works.
 
 ## Thanks
 Thanks to [JasonMortonNZ](https://github.com/JasonMortonNZ) for his awsome ST BS3 snippets.
+
+## Issues
+Please report any problems or suggestions at [issue tracker](https://github.com/arandilopez/bootstrap3-snippets/issues/new).
