@@ -66,4 +66,10 @@
 
       # Clearfix
       'bs3-clearfix'
+
+      # Forms
+      'bs3-form'
+      'bs3-form:inline'
+      'bs3-form:horizontal'
+      'bs3-form:label'
     ]

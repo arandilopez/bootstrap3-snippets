@@ -1,0 +1,18 @@
+'.text.html':
+
+# Navbar
+  'Navbar':
+    'prefix': 'bs3-navbar'
+    'body': """
+      <div class="navbar">
+	     <a class="navbar-brand" href="#">${1:Title}</a>
+	     <ul class="nav navbar-nav">
+		    <li class="active">
+			   <a href="#">${2:Home}</a>
+		    </li>
+		    <li>
+			   <a href="#">${3:Link}</a>
+		    </li>
+	     </ul>
+      </div>
+    """
