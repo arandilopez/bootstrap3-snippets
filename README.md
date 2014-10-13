@@ -2,7 +2,7 @@
 
 This is a BS3 snippets package for Atom. These snippets are in bs3-* style such as [JasonMortonNZ bs3 snippets](https://github.com/JasonMortonNZ/bs3-sublime-plugin)
 
-## Installation
+## Installa
 
 In Atom, open `Preferences > Packages`, search for `bootstrap3-snippets package`. Once it found, click Install button to install package.
 
