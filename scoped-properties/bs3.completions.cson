@@ -72,4 +72,7 @@
       'bs3-form:inline'
       'bs3-form:horizontal'
       'bs3-form:label'
+
+      # Navbar
+      'bs3-navbar'
     ]
