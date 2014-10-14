@@ -75,4 +75,14 @@
 
       # Navbar
       'bs3-navbar'
+      'bs3-navbar:responsive'
+
+      #Grid
+      'bs3-row'
+      'bs3-container'
+      'bs3-col'
+
+      #Tables
+      'bs3-table'
+      'bs3-table:responsive'
     ]
