@@ -11,7 +11,7 @@
 		     <title>${2:Title Page}</title>
 
 		     <!-- Bootstrap CSS -->
-		     <link href="${3://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css}" rel="stylesheet">
+		     <link href="${3:https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css}" rel="stylesheet">
 
 		     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,7 +26,7 @@
 		    <!-- jQuery -->
 		    <script src="${4://code.jquery.com/jquery.min.js}"></script>
 		    <!-- Bootstrap JavaScript -->
-		    <script src="${5://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js}"></script>
+		    <script src="${5:https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js}"></script>
         <!-- Your own javascript -->
         <script src="${6:js/main.js}"></script>
 	     </body>
