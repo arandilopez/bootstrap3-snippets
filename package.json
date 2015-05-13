@@ -1,6 +1,6 @@
 {
   "name": "bootstrap3-snippets",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Bootstrap 3 snippets plugin for Atom",
   "activationCommands": [],
   "repository": "https://github.com/arandilopez/bootstrap3-snippets",
