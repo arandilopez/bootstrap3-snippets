@@ -2,7 +2,7 @@
   "name": "bootstrap3-snippets",
   "version": "0.1.1",
   "description": "Bootstrap 3 snippets plugin for Atom",
-  "activationEvents": [],
+  "activationCommands": [],
   "repository": "https://github.com/arandilopez/bootstrap3-snippets",
   "license": "MIT",
   "engines": {
